@@ -12,3 +12,23 @@
   - tailwind
     - https://tailwindcss.com/
     - https://tailwindcss.com/docs/installation/play-cdn
+- flex
+  - https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox
+- scoped css
+  - https://www.w3schools.com/tags/tryit.asp?filename=tryhtml5_style_scoped
+  - styles leeking
+  - planned 2011-2015, browsers didn't  support it
+- component frameworks
+  - What is single file component
+  - VueJS
+    - Single File Component with scoped css
+    - https://vuejs.org/api/sfc-css-features.html#scoped-css
+  - Angular 
+    - https://angular.io/guide/component-styles
+  - React
+    - https://dev.to/viclafouch/how-to-scope-your-css-scss-in-react-js-271a 
+  - Svelte
+    - Scoped by default
+    - Not in both directions: parents and children
+    - https://svelte.dev/docs#component-format-style
+    - https://svelte.dev/examples/nested-components

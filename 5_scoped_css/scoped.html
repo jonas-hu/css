@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <style>
+        h1 {
+            color: green;
+        }
+
+        p {
+            color: black;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div>
+        <style scoped>
+            h1 {
+                color: red;
+            }
+
+            p {
+                color: blue;
+            }
+        </style>
+        <h1>This heading should be red</h1>
+        <p>This paragraph should be blue.</p>
+    </div>
+
+    <h1>This heading should be green</h1>
+    <p>This paragraph should be black.</p>
+    <p><b>Note:</b> The scoped attribute is deprecated. Do not use it.</p>
+
+</body>
+
+</html>
