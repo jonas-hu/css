@@ -3,8 +3,9 @@
 - Why use it
   - split content (html) from styling (css)
   - example: styled html vs split html & css
-- How to get started
-  - Copy designs
+- css selectors
+  - examples
+  - use in js
 - utility classes
   - bootstrap
     - https://getbootstrap.com/docs/4.0/components/buttons/
@@ -32,3 +33,4 @@
     - Not in both directions: parents and children
     - https://svelte.dev/docs#component-format-style
     - https://svelte.dev/examples/nested-components
+- How to get started?
